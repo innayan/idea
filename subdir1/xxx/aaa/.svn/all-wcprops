@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/test7/!svn/ver/275/java_eclipse16a/trunk/java_eclipse16/subdir1/xxx/aaa
+END
+bbb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/test7/!svn/ver/275/java_eclipse16a/trunk/java_eclipse16/subdir1/xxx/aaa/bbb.txt
+END

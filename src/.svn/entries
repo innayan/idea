@@ -1,0 +1,34 @@
+10
+
+dir
+869
+https://localhost:8443/svn/test7/java_eclipse16a/trunk/java_eclipse16/src
+https://localhost:8443/svn/test7
+
+
+
+2013-09-30T16:54:39.647927Z
+421
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+141e249c-4806-6d42-9585-4b838cdca241
+
+main
+dir
+
+test
+dir
+
